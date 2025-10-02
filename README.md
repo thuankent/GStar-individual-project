@@ -1,5 +1,5 @@
 # SiT and DINOv2-g alignments
-This project measures the features alignment between DINOv2-g model with diffusion transformers SiT model using CKNNA and ImageNet dataset
+This project measures the features alignment between DINOv2-g model with diffusion transformers SiT model using CKNNA on ImageNet dataset
 
 ## Requirements
 - Python >= 3.10  
